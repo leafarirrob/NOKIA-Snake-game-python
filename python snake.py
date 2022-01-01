@@ -30,7 +30,7 @@ YELLOW = (239, 255, 0)
 PURPLE = (205, 0, 255)
 
 BLOCK_SIZE = 20
-SPEED = 30
+SPEED = 10
 
 
 class SnakeGame:
